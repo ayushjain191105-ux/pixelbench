@@ -1,0 +1,30 @@
+# Python environments
+venv/
+.venv/
+env/
+
+# Python cache and build output
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+
+# IDE and local state
+.vscode/
+.idea/
+*.code-workspace
+
+# Streamlit local state
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+htmlcov/
