@@ -444,7 +444,7 @@ For example:
 git add .
 git commit -m "Prepare PixelBench for deployment"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/pixelbench.git
+git remote add origin https://github.com/ayushjain191105-ux/pixelbench.git
 git push -u origin main
 ```
 

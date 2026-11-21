@@ -281,8 +281,6 @@ def main():
             st.error(f"Processing failed: {exc}")
 
     st.divider()
-
-    st.divider()
     st.subheader("Worker sweep")
     st.caption("Run the same operation with each supported worker count to see where parallelism helps.")
 
